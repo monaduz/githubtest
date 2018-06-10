@@ -5,6 +5,6 @@ public class Test {
         System.out.println("albo i nie");
     }
     public static void main(String[] args) {
-        "fdgfd fdg df"
+        System.out.println( "fdgfd fdg df" );
     }
 }
