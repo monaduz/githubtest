@@ -1,6 +1,6 @@
 public class Test {
 
-    public static class Asdfg{
-        int a = 10;
+    public static void Hello {
+        System.out.println("say hello");
     }
 }
